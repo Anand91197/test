@@ -3,3 +3,5 @@ Pizza
 Burger
 Sandwith
 Coffee
+Tea
+Juice
